@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,b as c}from"./index.3a4bfb86.js";const o={},n=c("div",{class:"text-2xl pt-6 pl-6"}," Clientes ",-1),_=[n];function a(r,l){return t(),s("div",null,_)}const d=e(o,[["render",a]]);export{d as default};
