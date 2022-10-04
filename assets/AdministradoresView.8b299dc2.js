@@ -1,1 +1,0 @@
-import{_ as e,o as s,d as t,a as o}from"./index.da268c20.js";const c={},r=o("div",{class:"text-2xl pt-6 pl-6"}," Administradores ",-1),a=[r];function n(d,_){return s(),t("div",null,a)}const l=e(c,[["render",n]]);export{l as default};

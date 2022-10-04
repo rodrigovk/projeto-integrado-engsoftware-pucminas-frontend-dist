@@ -1,1 +1,0 @@
-import{_ as s,o as e,c as t,b as c}from"./index.d0e66157.js";const a={},o=c("div",{class:"text-2xl pt-6 pl-6"}," Assinaturas ",-1),n=[o];function r(_,i){return e(),t("div",null,n)}const d=s(a,[["render",r]]);export{d as default};
